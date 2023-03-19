@@ -1,4 +1,4 @@
-package fp3.tech;
+package fp3.tech.src;
 
 public class ForLife {
 
