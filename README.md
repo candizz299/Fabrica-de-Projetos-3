@@ -30,15 +30,11 @@
  Informações Extras
 
 
-...
-
-Insira os tópicos do README em links para facilitar a navegação do leitor
-
 ## Descrição do projeto
 Um software de gestão e organização para restaurantes.
 
 ## Funcionalidades 
-  Manutenção de cardapio
+ Manutenção de cardapio
 
  Gestão de pedidos
 
@@ -55,7 +51,7 @@ Aparelho utilizado para testes.
 - JDK8, NETBEANS, MYSQL.
 
 ## Como rodar a aplicação 
-Tendo instalado as aplicações necessarias na maquina, inicie a aplicação e ao termino de carregamento da tela, crie um cadastro e após prosseguir escolha qual vai a ação desejada ( adcionar ao cardapio ou abrir gerenciador de pedidos ),
+Tendo instalado as aplicações necessarias na máquina, inicie a aplicação e ao termino de carregamento da tela, crie um cadastro e após prosseguir escolha qual vai a ação desejada ( adcionar ao cardapio ou abrir gerenciador de pedidos ).
 
 ## Testes realizados
 Utilização de imagens e descrição do qeu foi testado.
@@ -70,7 +66,7 @@ XML
 Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
 mySQL
 ## Resolvendo Problemas 
-Até o presentr momento não tivemos problemas.
+Até o presente momento não tivemos problemas.
 
 ## Recursos de inseridos 
 Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
